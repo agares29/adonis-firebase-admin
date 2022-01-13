@@ -30,7 +30,7 @@
   "homepage": "https://github.com/Perafan18/adonis-firebase-cloud-messaging#readme",
   "dependencies": {
     "firebase": "^5.5.6",
-    "firebase-admin": "^5.13.1"
+    "firebase-admin": "^10.0.1"
   },
   "devDependencies": {
     "coveralls": "^3.0.2",
